@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPuzzle</string>
+    <string name="saved_high_score_key">HighScore</string>
+    <string name="MusicCondition">MusicCondition</string>
+    <string name="SoundCondition">SoundCondition</string>
+    <string name="Preview">PreviewValue</string>
+</resources>
